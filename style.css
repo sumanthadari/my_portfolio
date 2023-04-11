@@ -617,3 +617,11 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+.flex-row {
+    display: flex;
+}
+
+.pay-roll{
+    padding: 0 100px;
+}
