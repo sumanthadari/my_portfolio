@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: [ "Frontend Web-Developer",  "Coordinator of Electronics club", "Final year Students of IIIT Bhagalpur"],
+        strings: [ "Member of Training and placement Cell IIIT BHAGALPUR",  "Coordinator of Social media club", "Final year Students of IIIT Bhagalpur"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Frontend Web-Developer",  "Coordinator of Electronics club", "Final year Students of IIIT Bhagalpur"],
+        strings: ["Member of Training and placement Cell IIIT BHAGALPUR",  "Coordinator of Social media club", "Final year Students of IIIT Bhagalpur"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
